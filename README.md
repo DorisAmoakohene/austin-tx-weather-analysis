@@ -17,11 +17,21 @@ Technical recruiters, data scientists, environmental analysts, and anyone curiou
 ## ⚙️ Technologies Used
 SQL • Python • Pandas • Matplotlib • Seaborn • Jupyter Notebook
 
-# Data Source 
+# 📈 Data Source 
 
 [Austin Weather Data on Kaggle](https://www.kaggle.com/datasets/grubenm/austin-weather?resource=download)
 
-# Objectives
+# 🎯 Project Objectives
+
+1. **Transform High-Frequency Weather Data into Daily Aggregates**  
+   Convert 5-minute interval records into daily summaries using SQL and Python to enable efficient time-series analysis.
+
+2. **Identify Long-Term Climate Trends in Austin, TX (1990–2020)**  
+   Use statistical summaries and visualizations to detect patterns, anomalies, and shifts in temperature, precipitation, and visibility over time.
+
+3. **Reveal Relationships Between Key Weather Variables**  
+   Explore correlations and run basic predictive models (e.g., linear regression) to understand how different environmental factors interact.
+
 
 # Key Questions Addressed
 
