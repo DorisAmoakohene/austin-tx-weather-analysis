@@ -2,7 +2,9 @@
 
 # Project Title & Description
 
-# Data Source (with link)
+# Data Source 
+
+[Austin Weather Data on Kaggle](https://www.kaggle.com/datasets/grubenm/austin-weather?resource=download)
 
 # Technologies Used (SQL, Python, Pandas, Matplotlib, Seaborn, etc.)
 
