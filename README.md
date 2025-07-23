@@ -1,6 +1,4 @@
-# austin-tx-weather-analysis
-
-# Project Title & Description
+# Austin Texas Project
 
 ## 🌦️ Climate Chronicles: Deep Dive into Austin, Texas Weather Patterns
 
