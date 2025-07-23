@@ -1,0 +1,14 @@
+# Ignore data and outputs
+data/
+outputs/
+
+# Ignore Jupyter Notebook checkpoints
+**/.ipynb_checkpoints/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore environment files
+.env
+.DS_Store
