@@ -33,7 +33,20 @@ SQL • Python • Pandas • Matplotlib • Seaborn • Jupyter Notebook
    Explore correlations and run basic predictive models (e.g., linear regression) to understand how different environmental factors interact.
 
 
-# Key Questions Addressed
+# ❓ Key Questions Addressed
+
+1. **How has Austin’s average temperature changed over the last 30 years?**  
+   Are there observable warming trends, and are they consistent year-over-year?
+
+2. **What patterns exist in precipitation and visibility over time?**  
+   Can we detect periods of extreme weather, reduced visibility, or long-term shifts in rainfall?
+
+3. **Do any weather variables significantly correlate with each other?**  
+   For example, how does precipitation affect visibility, or does temperature influence daily rainfall?
+
+4. **Can we make simple predictions based on historical patterns?**  
+   Is it possible to build a basic forecast using linear models or moving averages?
+
 
 # How to Run the Project (step-by-step)
 
